@@ -1,7 +1,9 @@
-function App() {
+import Intro from "./components/intro/Intro";
+
+const App = () => {
   return (
     <div className="App">
-      <h1>My Portfolio</h1>
+      <Intro/>
     </div>
   );
 }
