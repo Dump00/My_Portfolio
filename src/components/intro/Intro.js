@@ -19,7 +19,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        Full stack developer born in Chilaw, Living in Mount Lavinia, Raised by the 90's, Highly experienced in the field now availavle for you. 
+                        Full stack developer born in Chilaw, Living in Mount Lavinia, Raised by the 90's, Highly experienced in the Software Engineering field now availavle for you. 
                     </p>
                 </div>
             </div>
