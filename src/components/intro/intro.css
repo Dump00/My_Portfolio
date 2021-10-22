@@ -85,47 +85,4 @@
     right: 0;
 }
 
-@media screen and (max-width: 480px){
-    .i{
-        flex-direction: column;
-    }
-    .i-img{
-        width: 300px;
-        height: 300px;
-        object-fit: cover;
-        top: 20%;
-        left: 25%;
-    }
-    /* .i-left-wrapper{
-        height: 100%;
-        padding: 10px;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    } */
-    .i-desc{
-        display: none;
-    }
-}
 
-@media screen and (max-width: 768px){
-    .i{
-        flex-direction: column;
-    }
-    .i-img{
-        width: 400px;
-        height: 400px;
-        top: 13%;
-        left: 30%;
-    }
-    .i-left-wrapper{
-        height: 100%;
-        padding: 10px;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    }
-    .i-desc{
-        display: none;
-    }
-}

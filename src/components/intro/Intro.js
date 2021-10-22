@@ -19,7 +19,8 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        Full stack developer born in Chilaw, Living in Mount Lavinia, Raised by the 90's, Highly experienced in the Software Engineering field now availavle for you. 
+                    I am a colombo based Tech Enthusiast and a Fullstack Developer. 
+                    I can help you solve a problem, build a product or grow existing project. 
                     </p>
                 </div>
             </div>

@@ -80,6 +80,21 @@ button{
     cursor: pointer;  
 }
 
+.c-footer{
+    margin-top: 100px;
+}
+
+.c-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.c-img{
+    margin: 50px;
+}
+
+
 @media screen and (max-width: 480px){
     .c-wrapper{
         flex-direction: column;
@@ -109,6 +124,8 @@ button{
         margin-top: 10px;
     }
 }
+
+
 
 @media screen and (max-width: 768px){
     .c-wrapper{

@@ -7,9 +7,9 @@ const TechList = () => {
     return (
         <div className="tl">
             <div className="tl-texts">
-                <h1 className="tl-title">Create & inspire. It's Rushain..</h1>
+                <h1 className="tl-title">Building New Things. Finding Soultions.</h1>
                 <p className="tl-desc">
-                Within the text of most pages, there are usually many hypertext links to other pages within the wiki. This form of non-linear navigation is more native.
+                Usually I love to work with any new technology. And here are my primary technologies which I love to work with. 
                 </p>
             </div>
             <div className="tl-list">
